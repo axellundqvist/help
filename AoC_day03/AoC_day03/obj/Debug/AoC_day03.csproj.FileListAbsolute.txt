@@ -1,0 +1,7 @@
+C:\Users\Axel\Desktop\learn_C#\advent_of_code\AoC_day03\AoC_day03\bin\Debug\AoC_day03.exe.config
+C:\Users\Axel\Desktop\learn_C#\advent_of_code\AoC_day03\AoC_day03\bin\Debug\AoC_day03.exe
+C:\Users\Axel\Desktop\learn_C#\advent_of_code\AoC_day03\AoC_day03\bin\Debug\AoC_day03.pdb
+C:\Users\Axel\Desktop\learn_C#\advent_of_code\AoC_day03\AoC_day03\obj\Debug\AoC_day03.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\learn_C#\advent_of_code\AoC_day03\AoC_day03\obj\Debug\AoC_day03.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\learn_C#\advent_of_code\AoC_day03\AoC_day03\obj\Debug\AoC_day03.exe
+C:\Users\Axel\Desktop\learn_C#\advent_of_code\AoC_day03\AoC_day03\obj\Debug\AoC_day03.pdb
